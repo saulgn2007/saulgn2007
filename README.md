@@ -7,10 +7,10 @@ Durante esta etapa llevé a cabo mis prácticas en empresa en Redes-Externas, do
 #
 # Lenguajes dsobre los que tengo conocimientos:
   
- -Java
- -SQL
- -HTML5
- -CSS
- -JavaScript
- -Python
+ - Java
+ - SQL
+ - HTML5
+ - CSS
+ - JavaScript
+ - Python
  
