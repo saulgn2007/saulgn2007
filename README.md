@@ -23,11 +23,9 @@ Actualmente cursando el 2º año de DAM y enfocado en construir proyectos de des
 
 | Proyecto | Descripción | Tecnologías y Frameworks |
 | :--- | :--- | :--- |
-| **[Nombre-Del-Proyecto-1](https://github.com/tu-usuario/repo1)** | Aplicación de escritorio desarrollada para la gestión de datos/usuarios. Incluye interfaz gráfica y conexión a base de datos. | Java, JavaFX, MySQL |
-| **[Nombre-Del-Proyecto-2](https://github.com/tu-usuario/repo2)** | Script de automatización y procesamiento de archivos o desarrollo web básico. | Python, HTML5, CSS3 |
-| **[Proyecto-SMR-Redes](https://github.com/tu-usuario/repo3)** | Configuración y simulación de infraestructura de red y administración de servidores. | Sistemas, Servidores, Redes |
-
-> 💡 *Nota: Puedes reemplazar los nombres de la tabla y los enlaces por los repositorios reales de tu cuenta.*
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 ---
 
@@ -41,5 +39,5 @@ Actualmente cursando el 2º año de DAM y enfocado en construir proyectos de des
 
 ## 📬 ¿Dónde encontrarme?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saul-gonzalez-navarro-239907184/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saulgn2007)
