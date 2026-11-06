@@ -15,7 +15,6 @@ Actualmente cursando el 2º año de DAM y enfocado en construir proyectos de des
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Redes](https://img.shields.io/badge/Redes%20y%20Sistemas-0055E5?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
@@ -32,8 +31,9 @@ Actualmente cursando el 2º año de DAM y enfocado en construir proyectos de des
 ## ✍️ Formación y Experiencia
 
 * 🎓 **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** — *IES Ramón del Valle Inclán* (2º año en curso).
+* 🛠️ **Prácticas en Redes-Externas** — Administración, montaje, reparacion y mantenimiento de equipos, montaje y mantenimiento de servidores, gestión de entornos de red y montaje de sistemas de seguridad (Camaras con grabadora y conexion de las mismas via cables POE. Configuración del entorno web de las camaras de seguridad.)
 * 📜 **Grado Medio en Sistemas Microinformáticos y Redes (SMR)** — *IES Ramón del Valle Inclán (Sevilla)*.
-* 🛠️ **Prácticas en Redes-Externas** — Administración de equipos, mantenimiento de servidores y gestión de entornos de red.
+
 
 ---
 
