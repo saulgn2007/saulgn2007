@@ -51,13 +51,6 @@ Actualmente cursando el 2º año de DAM y enfocado en construir proyectos de des
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saulgn2007&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub de Saúl" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulgn2007&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</p>
-
 
 ## ✍️ Formación y Experiencia
 
